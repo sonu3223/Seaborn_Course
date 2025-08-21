@@ -42,21 +42,11 @@ It provides a high-level interface for creating attractive and informative stati
    - Pairplot  
    - Regression Plots  
 
-6. **Styling & Customization**  
-   - Themes and Palettes  
-   - Titles & Labels  
-   - Changing Figure Size  
-
----
-
 ## 🛠️ Requirements  
-
-- Python 3.x  
-- seaborn  
+- Python
+- NUMPY
+- pandas
 - matplotlib  
-- pandas  
+- seaborn  
 
-Install using pip:  
 
-```bash
-pip install seaborn matplotlib pandas
