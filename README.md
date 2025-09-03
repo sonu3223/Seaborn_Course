@@ -1,8 +1,4 @@
 <img width="795" height="228" alt="image" src="https://github.com/user-attachments/assets/7d5ad078-d433-4922-9130-26bd601204a6" />
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/615a1b62-f270-4097-be4e-458d2a99bee1" />
-<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/7567659d-352e-418b-a077-ce833b0ff2b3" />
-<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/d45eb87f-9bbe-4088-90dd-dad3c9865d3b" />
-<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/fd1828bc-5f4a-473f-a1e6-cc6718b88cec" />
 # Seaborn_Course
 This repository contains Seaborn tutorials, notes, and example codes for beginners.
 # 📊 Seaborn Course for Beginners  
